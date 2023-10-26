@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('DancingScript-Medium.woff2') format('woff2'),
+        url('DancingScript-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('DancingScript-Bold.woff2') format('woff2'),
+        url('DancingScript-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('DancingScript-SemiBold.woff2') format('woff2'),
+        url('DancingScript-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('DancingScript-Regular.woff2') format('woff2'),
+        url('DancingScript-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Edu SA Beginner';
+    src: url('EduSABeginner-Medium.woff2') format('woff2'),
+        url('EduSABeginner-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Edu SA Beginner';
+    src: url('EduSABeginner-SemiBold.woff2') format('woff2'),
+        url('EduSABeginner-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Edu SA Beginner';
+    src: url('EduSABeginner-Bold.woff2') format('woff2'),
+        url('EduSABeginner-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Edu SA Beginner';
+    src: url('EduSABeginner-Regular.woff2') format('woff2'),
+        url('EduSABeginner-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
