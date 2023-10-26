@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    $(".pre-load").delay(4000).fadeOut(1000);
+    $(".pre-load").fadeOut(1000);
 });
